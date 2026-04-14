@@ -1,3 +1,9 @@
+<!--
+  If you're reading the raw markdown, hi. You're my kind of nerd.
+  This README has been rewritten seven times. An earlier draft had a
+  typing-robot SVG. I'm not proud.
+-->
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Lcharvol/Lcharvol/main/banner.png" alt="Lucas Charvolin">
 </div>
@@ -26,6 +32,14 @@ Trained at [42](https://42.fr). Still writing like the IDE is optional.
 - **Performance is a feature, not a phase.** A freeze is a bug — it never gets the "we'll optimize later" treatment.
 - **Copy matters.** The difference between a trustworthy tool and a suspicious one is usually three sentences of honest writing.
 
+## Opinions I'll defend at a pub
+
+- **Dry run should be the default** for anything that touches user files. "Are you sure?" is not a safety net.
+- **Every `TODO:` comment older than six months is a lie.** Either do it or delete it.
+- **Most UI freezes are fixable** with `Task.detached` and some honesty about what runs on the main thread.
+- **The best onboarding is a feature that doesn't need onboarding.**
+- **Any tool with more settings than features** has lost the plot.
+
 ## Stack
 
 **Swift / SwiftUI** for native Mac. **TypeScript / React** for the web.
@@ -41,9 +55,25 @@ and performance work — especially apps already in production that need
 their latency fixed and their copy rewritten. Start the conversation at
 [beetime.fr](https://beetime.fr).
 
+## Hand-curated stats (nothing auto)
+
+<table>
+<tr><td>Rollbacks this year</td><td align="right"><b>0</b></td></tr>
+<tr><td>Production incidents caught in &lt;15 minutes</td><td align="right"><b>1/1</b></td></tr>
+<tr><td>Animated SVGs in this README</td><td align="right"><b>0</b></td></tr>
+<tr><td>Typing-robot GIFs</td><td align="right"><b>0</b></td></tr>
+<tr><td>Hours spent tweaking this README</td><td align="right"><b>¯\_(ツ)_/¯</b></td></tr>
+<tr><td>Coffees between first commit and ship</td><td align="right"><b>depends on the bug</b></td></tr>
+</table>
+
 ## Off-hours
 
 Too much League of Legends (hence
 [lol-comp-maker](https://github.com/Lcharvol/lol-comp-maker)). A handful
 of 42 C projects from 2018 if you want to see how we used to write code
-without IDEs.
+without IDEs — and how my `Makefile` muscle memory started.
+
+---
+
+<sub>If you scrolled this far and didn't find a rainbow gradient anywhere,
+that was intentional.</sub>
